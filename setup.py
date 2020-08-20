@@ -13,7 +13,7 @@ setup(name= 'emda',
         manipulations. To work with MRC/CCP4.MAP and MTZ files. Map to map
         fitting and average/difference map calculation. Map and map-model validation
         using 3D correlations.''',
-    url= None,
+    url= 'https://www2.mrc-lmb.cam.ac.uk/groups/murshudov/content/emda/emda.html',
     author= 'Rangana Warshamanage, Garib N. Murshudov',
     author_email= 'ranganaw@mrc-lmb.cam.ac.uk, garib@mrc-lmb.cam.ac.uk',
     license= 'MPL-2.0',
